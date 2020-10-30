@@ -52,8 +52,6 @@
       NameField,
       SubmitButton
     },
-    mounted () {
-    },
     data () {
       return {
         f: this.reset(),
